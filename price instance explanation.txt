@@ -1,0 +1,10 @@
+Reduced instance Cost 
+
+For this scenerio I didn't alter my database price cause i believe it's instance and the instance size was very crirtical.
+I  reduced the size of my application and network load balancer
+
+
+Increased Instance Cost
+
+For this scenerio i went ahead and increased  the size of  my database instance. Also 
+I increased my load balancers for both the application and web servers.  

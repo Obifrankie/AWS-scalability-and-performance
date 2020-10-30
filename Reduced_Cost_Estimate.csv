@@ -1,0 +1,19 @@
+Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+Reduced_Cost_Estimate,US East (N. Virginia),,S3 Standard,0,230,2760.00,USD,S3 Standard storage (10000 GB per month)
+Reduced_Cost_Estimate,US East (N. Virginia),,Data Transfer,0,0,0.00,USD,
+Reduced_Cost_Estimate,US East (N. Virginia),,Amazon RDS for MySQL,0,849.943,10199.32,USD,"Quantity (1), Pricing strategy (Standard Reserved Instances 1 Year No Upfront), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (3000 GB), Instance type (db.m5.large)"
+Reduced_Cost_Estimate,US East (N. Virginia),,Amazon EC2,0,161.54,1938.48,USD,"Operating system (Linux), Quantity (1), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (1000 GB), Instance type (t4g.xlarge)"
+Reduced_Cost_Estimate,US East (N. Virginia),,Elastic Load Balancing,0,2206.43,26477.16,USD,Number of Application Load Balancers (1)
+Reduced_Cost_Estimate,US East (N. Virginia),,Elastic Load Balancing,0,980.03,11760.36,USD,"Number of Network Load Balancers (1), Processed bytes per NLB for TCP (220 GB per hour)"
+Reduced_Cost_Estimate,US East (N. Virginia),,Amazon EC2,0,161.54,1938.48,USD,"Operating system (Linux), Quantity (1), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (1000 GB), Instance type (t4g.xlarge)"
+Reduced_Cost_Estimate,US East (N. Virginia),,Amazon EC2,0,161.54,1938.48,USD,"Operating system (Linux), Quantity (1), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (1000 GB), Instance type (t4g.xlarge)"
+Reduced_Cost_Estimate,US East (N. Virginia),,Amazon EC2,0,161.54,1938.48,USD,"Operating system (Linux), Quantity (1), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (1000 GB), Instance type (t4g.xlarge)"
+Reduced_Cost_Estimate,US East (N. Virginia),,Amazon RDS for MySQL,0,849.943,10199.32,USD,"Quantity (1), Pricing strategy (Standard Reserved Instances 1 Year No Upfront), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (3000 GB), Instance type (db.m5.large)"
+Reduced_Cost_Estimate,US East (N. Virginia),,Amazon EC2,0,161.54,1938.48,USD,"Operating system (Linux), Quantity (1), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (1000 GB), Instance type (t4g.xlarge)"
+Reduced_Cost_Estimate,US East (N. Virginia),,Amazon EC2,0,161.54,1938.48,USD,"Operating system (Linux), Quantity (1), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (1000 GB), Instance type (t4g.xlarge)"
+Reduced_Cost_Estimate,US East (N. Virginia),,Amazon EC2,0,161.54,1938.48,USD,"Operating system (Linux), Quantity (1), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (1000 GB), Instance type (t4g.xlarge)"
+Reduced_Cost_Estimate,US East (N. Virginia),,Amazon EC2,0,161.54,1938.48,USD,"Operating system (Linux), Quantity (1), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (1000 GB), Instance type (t4g.xlarge)"
+
+
+
+"AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
